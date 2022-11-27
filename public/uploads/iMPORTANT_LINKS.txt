@@ -1,0 +1,16 @@
+IMPORTANT LINKS:
+
+Searching in Laravel:
+
+https://dev.to/kingsconsult/how-to-implement-search-functionality-in-laravel-8-and-laravel-7-downwards-3g76
+
+https://www.devopsschool.com/blog/how-to-use-search-functionality-in-laravel/
+
+Laravel Documents:
+
+https://developerhowto.com/2021/01/21/building-a-laravel-8-application-routes-views/
+
+Laravel Artisan Commands:
+
+//cleare Route
+php artisan route:clear 

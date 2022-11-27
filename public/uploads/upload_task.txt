@@ -1,0 +1,33 @@
+
+Blade::
+dashboard.blade.php
+finishtask.blade.php
+mycampaign.blade.php
+history.blade.php
+editprofile.php
+
+Cotoller::
+HistoryController.php
+MycampaignController.php
+
+Route::
+web.php
+
+Models::
+TvlAdmin.php
+TvlCampaign.php
+
+Migrations::
+today's(29_06_2022) created pages
+
+layouts-> header.blade.php
+layout-> menu.blade.php
+
+
+Rename table country to countries in database
+Imports table::
+ tvl_admins.sql
+ tvl_campaigns.sql
+ migrations.sql
+
+login.blade.php should update in ipaddress server

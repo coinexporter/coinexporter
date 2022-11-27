@@ -1,0 +1,440 @@
+[01-Sep-2022 13:40:29 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:40:29 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:41:20 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:41:20 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:42:44 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:42:44 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:45:05 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:45:05 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:45:19 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:45:19 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:45:56 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:45:56 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:46:14 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:46:14 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:48:46 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:48:46 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:50:34 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:50:34 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:50:36 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:50:36 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:51:39 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:51:39 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:51:50 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[01-Sep-2022 13:51:50 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Illuminate\Log\Logger::__construct() must be an instance of Psr\Log\LoggerInterface, instance of Monolog\Logger given, called in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 182 and defined in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:43
+Stack trace:
+#0 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(182): Illuminate\Log\Logger->__construct(Object(Monolog\Logger), Object(Illuminate\Events\Dispatcher))
+#1 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(129): Illuminate\Log\LogManager->createEmergencyLogger()
+#2 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(112): Illuminate\Log\LogManager->get('stack')
+#3 /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(590): Illuminate\Log\LogManager->driver()
+#4 /home/coinex in /home/coinexporter/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 43
+[02-Sep-2022 12:54:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/coinexporter/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[02-Sep-2022 12:54:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/coinexporter/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 1
+[02-Sep-2022 12:54:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/coinexporter/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[02-Sep-2022 12:54:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32768 bytes) in /home/coinexporter/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 1
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 09:31:01 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:21:32 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:23:51 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:24:08 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 10:25:44 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 11:54:57 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[05-Sep-2022 13:29:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/coinexporter/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Sep-2022 13:29:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/coinexporter/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 50
+[05-Sep-2022 13:29:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/coinexporter/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Sep-2022 13:29:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/coinexporter/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 50
+[05-Sep-2022 13:29:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/coinexporter/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Sep-2022 13:29:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/coinexporter/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 50
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:36:23 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 07:58:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/coinexporter/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[06-Sep-2022 07:58:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/coinexporter/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 50
+[06-Sep-2022 07:58:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/coinexporter/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[06-Sep-2022 07:58:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/coinexporter/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 50
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787
+[06-Sep-2022 19:51:24 UTC] PHP Warning:  Undefined variable $Ah in /home/coinexporter/public_html/public/adminer.php on line 1787

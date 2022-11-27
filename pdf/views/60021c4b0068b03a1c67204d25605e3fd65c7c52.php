@@ -1,0 +1,1 @@
+Hello<?php /**PATH \\BINAYAK\COINEXPORTER\admin\resources\views\mail.blade.php ENDPATH**/ ?>
